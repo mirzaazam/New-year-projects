@@ -295,11 +295,13 @@
     font-family: 'Dancing Script', cursive;
     font-family: 'Noto Sans', sans-serif;
     caret-color: white /*input curser color*/
+    
 }
 
 /*input field text color*/
 #email-input:focus{
     color: white;
+    border: 1px solid white;
 }
 
 ::placeholder {
